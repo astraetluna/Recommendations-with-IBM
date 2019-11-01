@@ -1,4 +1,5 @@
 __pychache__
+__pychache__/project_tests.cpython-37.pyc
 .DS_Store
 .ipynb_checkpoints
 user_item_matrix.p
